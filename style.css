@@ -1,11 +1,12 @@
 *{
     margin: 0;
     padding: 0;
-    max-width: 1440px;
-    margin: 0 auto;
+   
 }
 body{
-    font-family:'Rubik', sans-serif;;
+    font-family:'Rubik', sans-serif;
+    max-width: 1440px;
+    margin: 0 auto;
 }
 .body{
     display: flex;
